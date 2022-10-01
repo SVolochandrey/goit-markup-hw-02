@@ -39,6 +39,9 @@ color: var(--color-logo-accent);
 
 .hero-title {
 background-color: var(--color-background-2);
+}
+
+.title-decisions {
 color: var(--color-background-1);
 font-weight: 900;
 font-size: 44px;
